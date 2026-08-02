@@ -1,0 +1,6 @@
+{
+  "name": "CineLib - Movie & Book Explorer",
+  "description": "AI-powered movie and book discovery platform with natural language search, intelligent recommendations, review summarizer, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
